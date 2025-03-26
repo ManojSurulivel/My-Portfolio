@@ -27,21 +27,37 @@ This is a **modern, fully responsive** portfolio website built using **React.js 
 ## 📁 Folder Structure
 ```
 📂 my-portfolio
+
  ┣ 📂 src
+ 
  ┃ ┣ 📂 components
+ 
  ┃ ┃ ┣ 📜 About.js      # Navigation bar & branding
+ 
  ┃ ┃ ┣ 📜 Contact.js    # Contact section
+ 
  ┃ ┃ ┣ 📜 Footer.js      # Footer section
+ 
  ┃ ┃ ┣ 📜 Header.js      # Navigation section
+ 
  ┃ ┃ ┣ 📜 Hero.js        # Main section
+ 
  ┃ ┃ ┣ 📜 Projects.js    # Projects section
+ 
  ┃ ┃ ┣ 📜 Resume.js      # Resume section
+ 
  ┃ ┣ 📂 assets
+ 
  ┃ ┃ ┣ 📜 images/        # All images/icons
+ 
  ┃ ┣ 📜 App.js           # Main app component
+ 
  ┃ ┣ 📜 index.js         # React entry point
+ 
  ┣ 📜 package.json       # Dependencies & scripts
+ 
  ┣ 📜 tailwind.config.js # Tailwind CSS configuration
+ 
  ┣ 📜 README.md          # Project documentation
 ```
 
