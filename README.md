@@ -66,7 +66,7 @@ Follow these steps to set up and run the project locally:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/my-portfolio.git
+git clone https://github.com/ManojSurulivel/My-Portfolio.git
 cd my-portfolio
 ```
 
