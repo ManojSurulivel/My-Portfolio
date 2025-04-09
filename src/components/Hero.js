@@ -5,9 +5,9 @@ export default function Hero() {
     const config  = {
         subtitle: 'Im a Front-End developer and Designer',
         social: {
-            twitter: 'https://twitter.com/jvlcode',
-            facebook: 'https://facebook.com/jvlcode',
-            linkedin: 'https://in.linkedin.com/company/jvl-code'
+            twitter: 'https://twitter.com/manojs',
+            facebook: 'https://www.facebook.com/manojs.s.988',
+            linkedin: 'https://www.linkedin.com/in/manoj-s188',
         }
     }
 
