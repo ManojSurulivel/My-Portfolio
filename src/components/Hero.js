@@ -3,7 +3,7 @@ import { AiOutlineTwitter, AiOutlineFacebook, AiOutlineLinkedin } from "react-ic
 
 export default function Hero() {
     const config  = {
-        subtitle: 'Im a Front-End developer and Designer',
+        subtitle: 'Im a Front-End developer',
         social: {
             twitter: 'https://twitter.com/manojs',
             facebook: 'https://www.facebook.com/manojs.s.988',
